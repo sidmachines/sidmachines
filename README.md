@@ -8,7 +8,7 @@ Our work focuses on creating machines that are not limited to imitating human in
 
 ## Founder
 
-SID Machines was founded by **Daniyal Azeem Khan**, a researcher and engineer with a vision to build a new class of intelligent systems through first-principles experimentation, mathematics and transparent research.
+SID Machines was founded by **Daniyal Azeem Khan**, a researcher and an engineer with a vision to build a new class of intelligent systems through first-principles experimentation, mathematics and transparent research.
 
 ---
 
