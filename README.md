@@ -39,7 +39,4 @@ This repository is designed to be the central hub for:
 3. **Tight Experimental Loops** – Each experiment has a focused question and a clear outcome.  
 4. **Safety by Design** – Risks and failure modes are identified and tracked from the start.  
 
----
-
-## Repository Layout
 
