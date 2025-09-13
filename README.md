@@ -2,7 +2,7 @@
 
 **Super-Intelligent Dimensional Machines (SID)** is a research and prototyping initiative dedicated to building the foundations of next-generation intelligent systems.  
 
-Our work focuses on creating machines that are not limited to imitating human intelligence but are engineered to be safer, faster, more reliable and capable of perception, reasoning, learning, control, and communication across multiple domains.
+Our work focuses on creating machines that are not limited to imitating human intelligence but are engineered to be highly rational , robust, adaptive, more reliable and capable of perception, reasoning, learning, control and communication across multiple domains.
 
 ---
 
