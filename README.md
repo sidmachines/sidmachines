@@ -12,6 +12,13 @@ SID Machines was founded by **Daniyal Azeem Khan**, a researcher and engineer wi
 
 ---
 
+## History
+
+- **Early 2024** – The concept of SID Machines was first envisioned as a long-term initiative to build advanced intelligent systems.  
+- **June 13, 2025** – The domain **sidmachines.com** was acquired, establishing the project’s identity.  
+- **September 13, 2025** – The SID Machines repository was officially launched, marking the public beginning of research and prototyping.  
+
+---
 
 ## Purpose
 
