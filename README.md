@@ -1,16 +1,38 @@
 # SID Machines
 
-Research & prototyping lab for building **Super-Intelligent Dimensional Machines (SID)**: systems engineered to achieve superior perception, reasoning, learning, control, and communication across multiple domains. Emphasis on **mathematical rigor**, **emotional intelligence**, **scalable architectures**, and **safety-oriented experimentation**.
+**Super-Intelligent Dimensional Machines (SID)** is a research and prototyping initiative dedicated to building the foundations of next-generation intelligent systems.  
+
+Our work focuses on creating machines that are not limited to imitating human intelligence but are engineered to be safer, faster, more reliable and capable of perception, reasoning, learning, control, and communication across multiple domains.
+
+---
+
+## Founder
+
+SID Machines was founded by **Daniyal Azeem Khan**, a researcher and engineer with a vision to build a new class of intelligent systems through first-principles experimentation, mathematics and transparent research.
+
+---
+
+
+## Purpose
+
+SID Machines exists to serve as a **baseline for research, experimentation and progress** in the field of advanced intelligent systems.  
+This repository is designed to be the central hub for:
+
+- **Research and Notes** – Documentation of theoretical foundations, mathematics and relevant papers.  
+- **Experimentation** – Prototypes and small-scale experiments that validate ideas step by step.  
+- **Progress Tracking** – Transparent logs of daily and weekly work, including results and lessons learned.  
+- **Projects and Demos** – Reproducible implementations that show concrete progress over time.  
+
+---
 
 ## Operating Principles
-- Ship weekly demos & reports  
-- Learn in public: transparent logs & metrics  
-- Tight loops: one concept → one experiment → one conclusion  
-- Safety by design: track failure modes, respect licenses
 
-## Quickstart
-```bash
-python3.11 -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-jupyter notebook notebooks/week1/
+1. **Ship Weekly** – Every cycle concludes with a demo, a report and a documented result.  
+2. **Learn in Public** – Progress, successes and failures are shared openly.  
+3. **Tight Experimental Loops** – Each experiment has a focused question and a clear outcome.  
+4. **Safety by Design** – Risks and failure modes are identified and tracked from the start.  
+
+---
+
+## Repository Layout
+
