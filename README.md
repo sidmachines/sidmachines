@@ -27,16 +27,15 @@ This repository is designed to be the central hub for:
 
 - **Research and Notes** – Documentation of theoretical foundations, mathematics and relevant papers.  
 - **Experimentation** – Prototypes and small-scale experiments that validate ideas step by step.  
-- **Progress Tracking** – Transparent logs of daily and weekly work, including results and lessons learned.  
+- **Progress Tracking** – Transparent logs and updates, including results and lessons learned.  
 - **Projects and Demos** – Reproducible implementations that show concrete progress over time.  
 
 ---
 
 ## Operating Principles
 
-1. **Ship Weekly** – Every cycle concludes with a demo, a report and a documented result.  
-2. **Learn in Public** – Progress, successes and failures are shared openly.  
-3. **Tight Experimental Loops** – Each experiment has a focused question and a clear outcome.  
-4. **Safety by Design** – Risks and failure modes are identified and tracked from the start.  
+1. **Learn in Public** – Progress, successes and failures are shared openly.  
+2. **Tight Experimental Loops** – Each experiment has a focused question and a clear outcome.  
+3. **Safety by Design** – Risks and failure modes are identified and tracked from the start.  
 
 
